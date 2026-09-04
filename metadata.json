@@ -1,0 +1,6 @@
+{
+  "name": "视频号历史故事全链路创作系统",
+  "description": "专为视频号历史故事短视频打造的一站式AI工作流，支持原文二创、人工审核确认与分镜生图提示词、剪映纯净字幕、爆款标题标签全自动生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
